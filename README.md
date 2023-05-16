@@ -11,4 +11,4 @@ For these cities, you have the city population.
 
 Solution:
 
-To predict the profits of potential cities where the chains could be set up, I have used the Linear Regression Model which outputs the probable profit a city would give. It is one of the most basic machine learning models and comes under Supervised Machine Learning.
+To predict the profits of potential cities where the chains could be set up, I have used the Linear Regression Model which outputs the probable profit a city would give. It is one of the most basic machine learning models which comes under Supervised Machine Learning.
